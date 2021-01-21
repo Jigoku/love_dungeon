@@ -1,0 +1,3 @@
+[submodule "src/stalkerx"]
+	path = src/stalkerx
+	url = https://github.com/a327ex/STALKER-X.git
